@@ -1,1 +1,1 @@
-my full fjango project from zero to hero
+попытка воссоздание front-end рандомной нейронки без бэк енда (пока что)
